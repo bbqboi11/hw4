@@ -1,1 +1,1 @@
-
+My second idea is an art project where the user clicks and drags to reveal amazing patterns and colors. As you draw you hear the art singing as it comes to life. The program will draw lines that have a range in their length but a singular order in which they will be drawn. This will make each painting unique with no two ever being the same. The user can always clear their canvas and start again if they would like by pressing the spacebar on their keyboard and change colors with the arrow keys.
