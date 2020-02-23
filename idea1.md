@@ -1,1 +1,1 @@
-
+My first idea is a game called “Infected!”where the player has to clear the board of all the Germs. The Germs bounce around quickly so this is a game of speed! If you can't catch all Germs within a certain amount of time they will multiply. If the board fills up all the way, the game is over. During this colorful game the player will hear sounds of the Germs being defeated and when they bounce around.
